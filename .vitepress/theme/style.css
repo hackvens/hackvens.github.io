@@ -49,10 +49,10 @@
   --vp-c-default-3: var(--vp-c-gray-3);
   --vp-c-default-soft: var(--vp-c-gray-soft);
 
-  --vp-c-brand-1: #0ab3ff;
-  --vp-c-brand-2: #0ab3ff;
-  --vp-c-brand-3: #0ab3ff;
-  --vp-c-brand-soft: #0ab3ff;
+  --vp-c-brand-1: #0070FA;
+  --vp-c-brand-2: #0070FA;
+  --vp-c-brand-3: #0070FA;
+  --vp-c-brand-soft: #0070FA;
 
   --vp-c-tip-1: var(--vp-c-brand-1);
   --vp-c-tip-2: var(--vp-c-brand-2);
@@ -93,14 +93,14 @@
 :root {
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
-    #0ab3ff30%,
-    #0ab3ff;
+    #0070FA 30%,
+    #0070FA;
   );
 
   --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
     #ffffff 50%,
-    #0ab3ff 50%;
+    #0070FA 50%;
   );
   --vp-home-hero-image-filter: blur(44px);
 }
